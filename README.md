@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wolfwood369
 - 👀 I’m interested in building my software development skills
-- 🌱 I’m currently learning C, Go, Rust, and Python
+- 🌱 I’m currently learning Rust, C, and Python
 - 💞️ I’m looking to collaborate on simple changes to start, then work on blockchains
 - 📫 How to reach me nicholas.w.bates@gmail.com
 
